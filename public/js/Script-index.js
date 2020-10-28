@@ -1,0 +1,1 @@
+"use strict";var numbers=[1,2,3,5],numbersDoble=numbers.map((function(n){return 2*n}));console.log(numbers),console.log("Hola Mundo");
